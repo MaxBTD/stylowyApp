@@ -1,0 +1,85 @@
+.movieCell img{
+    width: 60px;
+    float:left;
+}
+
+.timeCell {
+    background-color: #dcdcdc;
+    width: fit-content;
+    margin: 0 5px;
+    float:left;
+    padding: 2px 5px;
+    border-radius: 15%;
+}
+
+.titleGenre{
+    float:left;
+}
+
+.titleGenre p{
+    color:#949393;
+    margin: 0px 15px 2px 15px;
+}
+
+.titleGenre h3{
+    margin: 10px 15px 2px 15px;
+}
+
+.cellTags{
+    margin-top: 10px;
+    float:right;
+}
+
+.movieCell{
+    margin: 10px;
+    width: 750px;
+}
+
+.premiereCell{
+    float:left;
+    background-color: red;
+    padding: 2px 5px;
+    border-radius: 15%;
+    font-weight: bold;
+    color:aliceblue;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.forKidsCell{
+    float:left;
+    background-color: #4dbc21;
+    padding: 2px 5px;
+    color:aliceblue;
+    border-radius: 15%;
+    font-weight: bold;
+    margin-right: -35px;
+}
+
+.studyRoomCell{
+    float:left;
+    background-color: #2150bc;
+    padding: 2px 7px;
+    color:aliceblue;
+    border-radius: 15%;
+    font-weight: bold;
+    margin-right:15px;
+}
+
+.studyCell{
+    float:left;
+    background-color: #2195bc;
+    padding: 2px 10px;
+    color:aliceblue;
+    border-radius: 15%;
+    font-weight: bold;
+    margin-right: -35px;
+}
+
+.everythincell{
+    height: 90px;
+}
+
+.movieCell hr{
+    border: 2px dotted #bebdbd;
+}
